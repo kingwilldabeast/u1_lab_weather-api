@@ -1,0 +1,133 @@
+body {
+    border: 1px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 10px;
+    padding: 50px; /* added colon */
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+}
+h1 {
+
+}
+#topRow {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 10px;
+    padding: 10px; /* added colon */
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+#labelRow {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: flex;
+    justify-content: center;
+}
+#widget {
+    display: column;
+}
+#currentDateRow {
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#weatherRows {
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#row1 {
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#row2 {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#row3 {
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#row4 {
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#row5 {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+
+}
+#row6 {
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#row7{
+
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#cityName {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#regionName {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#countryName {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+}
+#cityLocalTime {
+    border: 2px solid black; /* specify border width, style, and color */
+    color: black;
+    margin: 0px;
+    padding: 30px; /* added colon */
+    display: grid;
+
+}
